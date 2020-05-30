@@ -1,5 +1,5 @@
 # Graph-Algorithms
-Fundamental graphs algorithms to practice with c++
+Fundamental graph algorithms to practice with C++
 
 > stdc++.h is provided for MacOS users.
 
