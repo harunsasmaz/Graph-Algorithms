@@ -1,4 +1,4 @@
-#include "stdc++.h"
+#include "../stdc++.h"
 
 #define M 3 
 #define N 4 
